@@ -20,9 +20,9 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "NYU / Schmidt Futures"
-  organization_url = "https://www.coursera.org"
+  organization_url = "https://schmidtfutures.com/"
   title = "Traineeship in Computational Economics"
-  url = "https://schmidtfutures.com/"
+  url = "https://khakieconomics.github.io/2019/07/17/econgineering.html"
   date_start = "2019-09-19"
   date_end = ""
   description = ""
