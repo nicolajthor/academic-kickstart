@@ -13,24 +13,25 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 #
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+[[feature]]
+  name = "Arabic"
+  description = "Intermediate"
 
 [[feature]]
   name = "English"
   description = "Native / Bilingual"
+
+  [[feature]]
+    name = "French"
+    description = "Advanced"
 
 [[feature]]
   name = "German"
   description = "Native / Bilingual"
 
 [[feature]]
-  name = "French"
-  description = "Advanced"
-
-[[feature]]
   name = "Spanish"
   description = "Advanced"
 
-[[feature]]
-  name = "Arabic"
-  description = "Intermediate"
+
 +++
