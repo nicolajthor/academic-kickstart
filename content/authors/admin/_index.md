@@ -22,7 +22,7 @@ bio:
 
 interests:
 - Public Finance
-- Development Economics
+- Development
 - Econometrics
 
 education:
