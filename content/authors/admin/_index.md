@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 interests:
 - Public Finance
+- Development Economics
 - Econometrics
-- Political Economy
 
 education:
   courses:
@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Nicolaj Thor is a pre-doctoral research fellow at Opportunity Insights at Harvard University. His research interests in public finance include economic inequality, social mobility, and taxation. He is also interested in econometrics and political economy.
+Nicolaj Thor is a pre-doctoral research fellow at Opportunity Insights at Harvard University. His research interests in public finance include economic inequality, social mobility, and taxation. He is also interested in econometrics and development economics.
