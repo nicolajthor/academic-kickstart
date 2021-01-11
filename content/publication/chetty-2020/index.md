@@ -2,14 +2,14 @@
 title: 'The Economic Impacts of COVID-19: Evidence from a New Public Database Built
   Using Private Sector Data'
 date: '2020-11-01'
-draft: true
+draft: false
 publishDate: '2021-01-11T09:21:33.344137Z'
 authors:
 - Raj Chetty
 - John N. Friedman
 - Nathaniel Hendren
 - Michael Stepner
-- the Opportunity Insights Team
+- the Opportunity Insights Team (of which I am a member)
 publication_types:
 - '4'
 abstract: ''
